@@ -44,7 +44,7 @@ header{
 
 
 .titulo::before{
-    
+    content: '';
 }
 
 
