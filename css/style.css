@@ -58,6 +58,7 @@ header{
     height: 500px;
     margin: auto;
     text-align: center;
+    display: flex;
 }
 
 
