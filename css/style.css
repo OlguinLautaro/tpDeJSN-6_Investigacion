@@ -99,6 +99,7 @@ article{
 article::before{
     content: '';
     width: 100%;
+    height: 6px;
 }
 
 
