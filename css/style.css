@@ -109,6 +109,7 @@ article::before{
 
 article h2{
     margin-top: 20px;
+    font-weight: 500;
 }
 
 
