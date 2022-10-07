@@ -39,6 +39,7 @@ header{
     background-image: url(../imagenes/solo-leveling.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 
